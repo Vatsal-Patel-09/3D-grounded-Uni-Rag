@@ -2,10 +2,6 @@
 ## 2D-to-3D Scene Data Generation & Annotation Pipeline for 3D-Grounded Uni-RAG (AIED)
 ### Multi-Approach Synthesis & Mentor Presentation Document
 
-**Prepared by:** AI Architect Swarm (Comparative Analysis of 5 Proposal Variants)  
-**Date:** May 1, 2026  
-**Target:** Lab Mentor Review — Decision on Architecture & Budget  
-
 **Citation Key:**
 - [Synth-v2] = Kiro-SYNTHESIZED_3D_Pipeline_Proposal_v2.md
 - [Perplexity] = perplexity.md
